@@ -7,7 +7,7 @@ Welcome to my profile! I like to create softwares that makes things easier, for 
 <img align="right" width="300" src="https://media.giphy.com/media/SQTSmiJl0uKoZNdv1T/giphy.gif" />
 
 ```kotlin
-object **Pedro Gonçalves** {
+object Pedro Gonçalves {
  val name = "João Pedro Gonçalves Dias da Silva"
  val acknowledgements = "Desenvolvimento Mobile"
 
@@ -30,11 +30,11 @@ object **Pedro Gonçalves** {
 ## Status
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalvespedroo&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalvespedroo&theme=dark&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=goncalvespedroo&show_icons=true&theme=dracula&line_height=27" alt="Pedro Gonçalves github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=goncalvespedroo&show_icons=true&theme=dark&line_height=27" alt="Pedro Gonçalves github stats"/>
 </a>
 
 [website]: https://codedev.ga/
