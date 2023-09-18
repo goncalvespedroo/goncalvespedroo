@@ -6,15 +6,14 @@ Welcome to my profile! I like to create softwares that makes things easier, for 
 
 <img align="right" width="300" src="https://media.giphy.com/media/SQTSmiJl0uKoZNdv1T/giphy.gif" />
 
-```kotlin
-object Pedro Gonçalves {
- val name = "João Pedro Gonçalves Dias da Silva"
- val acknowledgements = "Desenvolvimento Mobile"
+```python
+class PedroGoncalves:
+    name = "João Pedro Gonçalves Dias da Silva"
+    acknowledgements = "Dev Python | Front-End"
 
- val primarySkillset = setOf("English", "Italian", "Portuguese", "time management", "creativity")
- val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React")
+    primarySkillset = {"English", "Italian", "Portuguese", "time management", "creativity"}
+    languages = ["Java", "Python", "JavaScript", "Kotlin", "React"]
 
-}
 ```
 
 ## Languages ​​and Tools
