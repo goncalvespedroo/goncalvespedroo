@@ -12,7 +12,7 @@ class PedroGoncalves:
     acknowledgements = "Dev Python | Front-End"
 
     primarySkillset = {"English", "Italian", "Portuguese", "time management", "creativity"}
-    languages = ["Java", "Python", "JavaScript", "Kotlin", "React"]
+    languages = ["Python", "JavaScript"]
 
 ```
 
