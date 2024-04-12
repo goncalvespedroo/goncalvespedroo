@@ -4,15 +4,14 @@ Welcome to my profile! I like to create softwares that makes things easier, for 
 
 ## About me
 
-<img align="right" width="300" src="https://media.giphy.com/media/SQTSmiJl0uKoZNdv1T/giphy.gif" />
+
 
 ```python
 class PedroGoncalves:
     name = "João Pedro Gonçalves Dias da Silva"
-    acknowledgements = "Dev Python | Front-End"
+    acknowledgements = "Back-End | Front-End"
 
     primarySkillset = {"English", "Italian", "Portuguese", "time management", "creativity"}
-    languages = ["Python", "JavaScript"]
 
 ```
 
@@ -24,6 +23,8 @@ class PedroGoncalves:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+
 
 ## Status
 
