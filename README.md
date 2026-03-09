@@ -18,13 +18,14 @@ Atualmente focado no desenvolvimento de soluções robustas na **Gosht Pipe Squa
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
+## 📊 Estatísticas
 
-### **Linguagens & Frameworks**
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goncalvespedroo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalvespedroo&layout=donut&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalvespedroo&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
+### **Linguagens & Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
