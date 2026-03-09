@@ -12,12 +12,17 @@ Atualmente focado no desenvolvimento de soluções robustas na **Gosht Pipe Squa
 - 🔭 **Atualmente:** Evoluindo sistemas na **Gosht Pipe Squad**.
 - 📝 **Escrita:** Escrevo regularmente sobre desenvolvimento e carreira no [LinkedIn](https://www.linkedin.com/in/goncalves-pedroo/).
 - ⚡ **Foco:** Backend (Java/Python) e Automação de Testes (Cypress).
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=goncalvespedroo&theme=tokyonight&hide_border=true"/>
+</p>
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
 ### **Linguagens & Frameworks**
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalvespedroo&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
