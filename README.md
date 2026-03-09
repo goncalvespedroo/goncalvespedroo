@@ -18,13 +18,6 @@ Atualmente focado no desenvolvimento de soluções robustas na **Gosht Pipe Squa
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goncalvespedroo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalvespedroo&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
 ### **Linguagens & Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -48,18 +41,6 @@ Atualmente focado no desenvolvimento de soluções robustas na **Gosht Pipe Squa
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-## 📊 Estatísticas
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goncalvespedroo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalvespedroo&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=goncalvespedroo&label=Profile%20views&color=0e75b6&style=flat-square" alt="goncalvespedroo" />
 </p>
 
 ---
