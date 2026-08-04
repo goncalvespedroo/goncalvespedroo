@@ -32,7 +32,6 @@ uma memória personalizada do processo de aprendizagem.
 - Desenvolvimento de produtos educacionais
 
   ## Contribuições
-## Contribuições
 
 <picture>
   <source
