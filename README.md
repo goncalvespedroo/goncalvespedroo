@@ -18,4 +18,6 @@ uma memória personalizada do processo de aprendizagem.
 - MVP em desenvolvimento
 
 [Conheça o projeto](https://github.com/goncalvespedroo/sokra-tutor)
+
+
 [Visite a landing page](https://sokra-landing.vercel.app/)
