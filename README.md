@@ -33,17 +33,10 @@ uma memória personalizada do processo de aprendizagem.
 
   ## Contribuições
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/goncalvespedroo/goncalvespedroo/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/goncalvespedroo/goncalvespedroo/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="Animação das contribuições de Pedro Gonçalves"
-    src="https://raw.githubusercontent.com/goncalvespedroo/goncalvespedroo/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+
+
+Vamos conversar?
+
+Estou aberto a trocar ideias sobre educação, inteligência artificial, backend e desenvolvimento de produtos em estágio inicial.
+
+[LinkedIn](https://www.linkedin.com/in/goncalves-pedroo/) · [Instagram](https://www.instagram.com/sutracomp/) · [E-mail](mailto:contato.pedrojson@gmail.com)
