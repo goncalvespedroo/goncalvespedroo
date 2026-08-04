@@ -31,7 +31,7 @@ uma memória personalizada do processo de aprendizagem.
 - Testes automatizados e qualidade de software
 - Desenvolvimento de produtos educacionais
 
-  ## Contribuições
+## Contribuições
 
 <picture>
   <source
