@@ -21,3 +21,12 @@ uma memória personalizada do processo de aprendizagem.
 
 
 [Visite a landing page](https://sokra-landing.vercel.app/)
+
+
+## O que estou explorando
+
+- Arquitetura de aplicações com IA
+- Backend com Python, Java e APIs REST
+- Next.js e TypeScript
+- Testes automatizados e qualidade de software
+- Desenvolvimento de produtos educacionais
