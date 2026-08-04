@@ -30,3 +30,20 @@ uma memória personalizada do processo de aprendizagem.
 - Next.js e TypeScript
 - Testes automatizados e qualidade de software
 - Desenvolvimento de produtos educacionais
+
+  ## Contribuições
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/goncalvespedroo/goncalvespedroo/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/goncalvespedroo/goncalvespedroo/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Animação das contribuições de Pedro Gonçalves"
+    src="https://raw.githubusercontent.com/goncalvespedroo/goncalvespedroo/output/github-contribution-grid-snake.svg"
+  />
+</picture>
