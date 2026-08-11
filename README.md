@@ -33,6 +33,8 @@ uma memória personalizada do processo de aprendizagem.
 
 ## Contribuições
 
+## Contribuições
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -55,4 +57,6 @@ Vamos conversar?
 
 Estou aberto a trocar ideias sobre educação, inteligência artificial, backend e desenvolvimento de produtos em estágio inicial.
 
-[LinkedIn](https://www.linkedin.com/in/goncalves-pedroo/) · [Instagram](https://www.instagram.com/sutracomp/) · [E-mail](mailto:contato.pedrojson@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/goncalves-pedroo/) ·
+[Instagram](https://www.instagram.com/sutracomp/) ·
+[E-mail](mailto:contato.pedrojson@gmail.com)
