@@ -32,27 +32,6 @@ uma memória personalizada do processo de aprendizagem.
 - Desenvolvimento de produtos educacionais
 
 ## Contribuições
-
-## Contribuições
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/goncalvespedroo/goncalvespedroo/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/goncalvespedroo/goncalvespedroo/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    alt="Animação das contribuições de Pedro Gonçalves"
-    src="https://raw.githubusercontent.com/goncalvespedroo/goncalvespedroo/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-
 Vamos conversar?
 
 Estou aberto a trocar ideias sobre educação, inteligência artificial, backend e desenvolvimento de produtos em estágio inicial.
