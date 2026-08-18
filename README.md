@@ -31,7 +31,6 @@ uma memória personalizada do processo de aprendizagem.
 - Testes automatizados e qualidade de software
 - Desenvolvimento de produtos educacionais
 
-## Contribuições
 Vamos conversar?
 
 Estou aberto a trocar ideias sobre educação, inteligência artificial, backend e desenvolvimento de produtos em estágio inicial.
